@@ -14,7 +14,7 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = [
     "Frameworks/hermes.xcframework",
     "Frameworks/ReactBrownfield.xcframework",
-    "Frameworks/HelloBrownfieldReact.xcframework",
+    "Frameworks/TestRockAppReact.xcframework",
   ]
 
 end

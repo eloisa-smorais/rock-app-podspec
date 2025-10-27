@@ -1,6 +1,0 @@
-framework module HelloBrownfieldReact {
-  umbrella header "HelloBrownfieldReact.h"
-  export *
-
-  module * { export * }
-}
