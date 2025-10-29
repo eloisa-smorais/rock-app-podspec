@@ -12,6 +12,22 @@
 		<data>
 		yP3RXQPen0njFGQLW7JSihZgIR4=
 		</data>
+		<key>LottiePrivacyInfo.bundle/Info.plist</key>
+		<data>
+		ktPXIQaShobTaDanExvLNzwZjac=
+		</data>
+		<key>LottiePrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		9slhmTZYKDmos4efk+3YOXYOQXo=
+		</data>
+		<key>Lottie_React_Native_Privacy.bundle/Info.plist</key>
+		<data>
+		i65I43Y7XbozrmJzI+EuHmba/hI=
+		</data>
+		<key>Lottie_React_Native_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		ucg9pita0v8d353x3NuGfxweQYU=
+		</data>
 		<key>Modules/TestRockAppReact.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
 		GPYD90/QsgfLyEW0YCuUjkUtQB0=
@@ -38,7 +54,7 @@
 		</data>
 		<key>Modules/TestRockAppReact.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/gB2Zi4mKUPQiVpejzlGAhPWYZU=
+		EP8bNQ+L9DCNjRRE0FaeHHQOPu4=
 		</data>
 		<key>Modules/TestRockAppReact.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -58,7 +74,7 @@
 		</data>
 		<key>Modules/TestRockAppReact.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zhz3Ayh8ZZx1/rpKGstKoeGPAvI=
+		0AOciQeKYZBH45SSe8X764j5Zgs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,6 +83,26 @@
 		<key>RCT-Folly_privacy.bundle/Info.plist</key>
 		<data>
 		b6rdkRJ3m13AYWR8Db5EEyaZR4A=
+		</data>
+		<key>RNImagePickerPrivacyInfo.bundle/Info.plist</key>
+		<data>
+		Rf8TUkOPU3wDDJtfoLFh69IMfPA=
+		</data>
+		<key>RNImagePickerPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		6nz0Rfll858CIDce0fjtnCf/TYo=
+		</data>
+		<key>RNSVGFilters.bundle/Info.plist</key>
+		<data>
+		759qDPVvkof3DsXLnUGdw4T5CAo=
+		</data>
+		<key>RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
+		<data>
+		+VLexPzHghS5+wGZ2o3Pb4hzkK4=
+		</data>
+		<key>RNSVGFilters.bundle/RNSVGCompositeXor.iphoneos.metallib</key>
+		<data>
+		uBh9rD7P0EEOLBtlduH9X3cREsM=
 		</data>
 		<key>React-Core_privacy.bundle/Info.plist</key>
 		<data>
@@ -146,7 +182,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		5x3JaLBq0Wj55s7vXsDwl7mBqys=
+		8imMEic6UiAyYHGGyMSdoBLwiDU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -156,6 +192,34 @@
 			<key>hash2</key>
 			<data>
 			e5An7ckeMGnpG2B63cvUbnK+ZLw6ji3LN56PLrWSJ28=
+			</data>
+		</dict>
+		<key>LottiePrivacyInfo.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			szPDpKi1Gw0/+eQjLI46WrebGxlkkXQult5Lu8OT0BI=
+			</data>
+		</dict>
+		<key>LottiePrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ENpn8heCTwGSiOwyirq8KQqwOZxS6b53ok1JQzkTfaI=
+			</data>
+		</dict>
+		<key>Lottie_React_Native_Privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pU8y4rqrQspXzyYfpP5tIwvjnBuatQ/7Y6IKqPNTa28=
+			</data>
+		</dict>
+		<key>Lottie_React_Native_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Uh6274Qwdz5cAQ4YOP6d2PpdYre3bRzqjX2NqtyxROI=
 			</data>
 		</dict>
 		<key>Modules/TestRockAppReact.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
@@ -204,7 +268,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mhzNhqauYyZPwdG/6xYEOLaBn7a+vSts7nRYRVu9Dy4=
+			iYASR1damQCZMdnA//sFF0d2EAuRmr7hPtR30Di2hBE=
 			</data>
 		</dict>
 		<key>Modules/TestRockAppReact.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -239,7 +303,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i3f5JYsAyKwdMw6Hh0UiNFzKB8Kmo6M7V1Kc/6LZ3mg=
+			EL/V/f7DaqoNhjDa/FsDjVjhksc6Qy5RbDmaAO4v+V0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -254,6 +318,41 @@
 			<key>hash2</key>
 			<data>
 			T75sbbEWCPacdY+46mqM2nxJYi0fLby0jyPuELpKK4g=
+			</data>
+		</dict>
+		<key>RNImagePickerPrivacyInfo.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BVED3r4WkJDocKREGk3bTeEU2jqNieS7JAa7MsLM4Sw=
+			</data>
+		</dict>
+		<key>RNImagePickerPrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			M8KUfxZScv94juAbDXWMlhWxCn65Sxan3IqlDpFX/YQ=
+			</data>
+		</dict>
+		<key>RNSVGFilters.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ElfHecF87YiZUUzDJ7uaseHMvBj/CyfEprthgQJjPQM=
+			</data>
+		</dict>
+		<key>RNSVGFilters.bundle/RNSVGArithmeticFilter.iphoneos.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aRRl/fIr4pQqkGSCmYRAyw0/aGOTcpNrit0zlcC0Dtk=
+			</data>
+		</dict>
+		<key>RNSVGFilters.bundle/RNSVGCompositeXor.iphoneos.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IjeoZNeITsXaqYQpPXdb5hrqaJk+s2Qqy5e5V5lT//I=
 			</data>
 		</dict>
 		<key>React-Core_privacy.bundle/Info.plist</key>
@@ -393,7 +492,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dfmWEYUDDhbJNgNvnKYfHT0RJnrWnnXHZvWE+hiP/qc=
+			Z9r+Q7NqM+Ytcl7bhMRrCBSmaGPQRwFQEyezVM/3apw=
 			</data>
 		</dict>
 	</dict>
